@@ -1,0 +1,6 @@
+framework module Pods_UNKO_LibraryUITests {
+  umbrella header "Pods-UNKO_LibraryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
